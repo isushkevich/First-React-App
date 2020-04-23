@@ -1,0 +1,45 @@
+body {
+    background-image: url("img/background_tile.png");
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.centered_block {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.main_title {
+    font-family: "Raleway", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+
+img {
+    /* height: 800px; */
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.slide {
+    outline: none;
+}
+
+
+/* .slick-track {
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #86878b;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #86878b;
+} */
